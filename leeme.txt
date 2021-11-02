@@ -1,0 +1,6 @@
+El sistema esta desarrollado en PHP con el framework Laravel 8,
+Posee un sistema de logueo
+para su acceso debe ingresar con usuario registrado.
+ 
+Usuario: admin@gmail.com
+Pass: 123456789
